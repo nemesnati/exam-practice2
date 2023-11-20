@@ -76,6 +76,7 @@
   form div input {
     width: 20px;
     height: 20px;
+    outline: 2px solid black
   }
   
   #root > div {

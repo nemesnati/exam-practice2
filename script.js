@@ -12,7 +12,7 @@ document.querySelector("#root").insertAdjacentHTML(
 
       <div>
         <input type="checkbox">
-        <p>Elolvastem és elfogadom a felhasználási feltételeket</p>
+        <p>Elolvastam és elfogadom a felhasználási feltételeket</p>
       </div>
     </form>
 
